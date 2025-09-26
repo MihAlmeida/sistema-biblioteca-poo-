@@ -1,28 +1,25 @@
-# 📚 Sistema de Biblioteca - POO
+# Sistema de Biblioteca - POO
 
 Projeto acadêmico desenvolvido em Java aplicando os princípios da Programação Orientada a Objetos.
 
-## 🎯 Funcionalidades
+## Funcionalidades
 - Cadastro de livros físicos e digitais
-- Gerenciamento de usuários
+- Gerenciamento de usuários  
 - Sistema de empréstimo e devolução
 - Controle de disponibilidade
 
-## 🏗️ Princípios POO Aplicados
+## Princípios POO Aplicados
 
-### 🔒 Encapsulamento
+### Encapsulamento
 Atributos privados com métodos públicos de acesso
 
-### 👨‍👩‍👧‍👦 Herança
-Classe `LivroDigital` herda de `Livro`
+### Herança
+Classe LivroDigital herda de Livro
 
-### 🔄 Polimorfismo
-Método `toString()` sobrescrito nas classes
+### Polimorfismo
+Método toString() sobrescrito nas classes
 
-### ✨ Abstração
-Classe `Biblioteca` simplifica operações complexas
+### Abstração
+Classe Biblioteca simplifica operações complexas
 
-## 🚀 Como Executar
-```bash
-javac *.java
-java Main
+## Como Executar
