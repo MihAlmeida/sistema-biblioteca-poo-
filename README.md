@@ -23,3 +23,5 @@ Método toString() sobrescrito nas classes
 Classe Biblioteca simplifica operações complexas
 
 ## Como Executar
+javac *.java
+java Main
